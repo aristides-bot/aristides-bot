@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aristides-bot
-- 👀 I’m interested in running, reading, 5k's, running, and music. 
+- 👀 I’m interested in running 5k/10k races, music, writing, and reading self-help books. 
 - 🌱 I’m currently learning Co-Pilot, Generative AI, AI app creation and prompt engineering. 
 - 💞️ I’m looking to collaborate on slack, discord, and teams. 
 - 📫 How to reach me: aristidesrodriguez08@gmail.com
